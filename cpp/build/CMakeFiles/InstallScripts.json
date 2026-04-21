@@ -1,7 +1,7 @@
 {
 	"InstallScripts" : 
 	[
-		"/Users/techguy/Downloads/snake/cpp/build/cmake_install.cmake"
+		"/Users/techguy/snake_game_forcedtomake/cpp/build/cmake_install.cmake"
 	],
 	"Parallel" : false
 }

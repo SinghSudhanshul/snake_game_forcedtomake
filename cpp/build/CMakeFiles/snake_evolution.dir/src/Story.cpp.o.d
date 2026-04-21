@@ -1,6 +1,6 @@
 CMakeFiles/snake_evolution.dir/src/Story.cpp.o: \
-  /Users/techguy/Downloads/snake/cpp/src/Story.cpp \
-  /Users/techguy/Downloads/snake/cpp/src/Story.h \
+  /Users/techguy/snake_game_forcedtomake/cpp/src/Story.cpp \
+  /Users/techguy/snake_game_forcedtomake/cpp/src/Story.h \
   /opt/homebrew/include/raylib.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/17/include/stdarg.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/17/include/__stdarg_header_macro.h \

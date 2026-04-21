@@ -1,6 +1,6 @@
 CMakeFiles/snake_evolution.dir/src/Arena.cpp.o: \
-  /Users/techguy/Downloads/snake/cpp/src/Arena.cpp \
-  /Users/techguy/Downloads/snake/cpp/src/Arena.h \
+  /Users/techguy/snake_game_forcedtomake/cpp/src/Arena.cpp \
+  /Users/techguy/snake_game_forcedtomake/cpp/src/Arena.h \
   /opt/homebrew/include/raylib.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/17/include/stdarg.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/17/include/__stdarg_header_macro.h \

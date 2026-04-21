@@ -1,0 +1,39 @@
+# Build artifacts
+build-desktop/
+build-web/
+cpp/build/
+*.o
+*.a
+*.so
+*.dylib
+*.exe
+*.dll
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.cmake
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Web build output
+web/snake_game.js
+web/snake_game.wasm
+web/snake_game.data
+
+# Temp files
+/tmp/
+*.wav
+highscore.dat
+
+# Deprecated folders (optional - keep for reference)
+# foced_making_game/
+# src_cpp_backup/

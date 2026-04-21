@@ -1,6 +1,6 @@
 CMakeFiles/snake_evolution.dir/src/Renderer2D.cpp.o: \
-  /Users/techguy/Downloads/snake/cpp/src/Renderer2D.cpp \
-  /Users/techguy/Downloads/snake/cpp/src/Renderer2D.h \
+  /Users/techguy/snake_game_forcedtomake/cpp/src/Renderer2D.cpp \
+  /Users/techguy/snake_game_forcedtomake/cpp/src/Renderer2D.h \
   /opt/homebrew/include/raylib.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/17/include/stdarg.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/17/include/__stdarg_header_macro.h \
@@ -9,7 +9,7 @@ CMakeFiles/snake_evolution.dir/src/Renderer2D.cpp.o: \
   /Library/Developer/CommandLineTools/usr/lib/clang/17/include/__stdarg_va_arg.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/17/include/__stdarg___va_copy.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/17/include/__stdarg_va_copy.h \
-  /Users/techguy/Downloads/snake/cpp/src/Snake.h \
+  /Users/techguy/snake_game_forcedtomake/cpp/src/Snake.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/vector \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__config \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__config_site \
@@ -754,5 +754,5 @@ CMakeFiles/snake_evolution.dir/src/Renderer2D.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_fsfilcnt_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/_types/_nl_item.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/cstdarg \
-  /Users/techguy/Downloads/snake/cpp/src/Arena.h \
-  /Users/techguy/Downloads/snake/cpp/src/Story.h
+  /Users/techguy/snake_game_forcedtomake/cpp/src/Arena.h \
+  /Users/techguy/snake_game_forcedtomake/cpp/src/Story.h

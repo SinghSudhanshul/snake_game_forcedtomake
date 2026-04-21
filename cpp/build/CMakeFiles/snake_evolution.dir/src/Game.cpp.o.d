@@ -1,7 +1,7 @@
 CMakeFiles/snake_evolution.dir/src/Game.cpp.o: \
-  /Users/techguy/Downloads/snake/cpp/src/Game.cpp \
-  /Users/techguy/Downloads/snake/cpp/src/Game.h \
-  /Users/techguy/Downloads/snake/cpp/src/Snake.h \
+  /Users/techguy/snake_game_forcedtomake/cpp/src/Game.cpp \
+  /Users/techguy/snake_game_forcedtomake/cpp/src/Game.h \
+  /Users/techguy/snake_game_forcedtomake/cpp/src/Snake.h \
   /opt/homebrew/include/raylib.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/17/include/stdarg.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/17/include/__stdarg_header_macro.h \
@@ -754,13 +754,13 @@ CMakeFiles/snake_evolution.dir/src/Game.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_fsfilcnt_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/_types/_nl_item.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/cstdarg \
-  /Users/techguy/Downloads/snake/cpp/src/Arena.h \
-  /Users/techguy/Downloads/snake/cpp/src/Story.h \
-  /Users/techguy/Downloads/snake/cpp/src/Renderer2D.h \
-  /Users/techguy/Downloads/snake/cpp/src/Renderer3D.h \
-  /Users/techguy/Downloads/snake/cpp/src/Renderer4D.h \
-  /Users/techguy/Downloads/snake/cpp/src/Audio.h \
-  /Users/techguy/Downloads/snake/cpp/src/UI.h \
+  /Users/techguy/snake_game_forcedtomake/cpp/src/Arena.h \
+  /Users/techguy/snake_game_forcedtomake/cpp/src/Story.h \
+  /Users/techguy/snake_game_forcedtomake/cpp/src/Renderer2D.h \
+  /Users/techguy/snake_game_forcedtomake/cpp/src/Renderer3D.h \
+  /Users/techguy/snake_game_forcedtomake/cpp/src/Renderer4D.h \
+  /Users/techguy/snake_game_forcedtomake/cpp/src/Audio.h \
+  /Users/techguy/snake_game_forcedtomake/cpp/src/UI.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/functional \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/binary_negate.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/bind.h \
